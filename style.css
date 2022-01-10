@@ -75,13 +75,13 @@
         position: relative;
         width: 200px;
         left: 412px;
-        top: -45px;
+        top: -40px;
         font-size: 25px;
     }
     .contact-form .number-label{
         position: relative;
         left: 24px;
-        top: 28px;
+        top: 33px;
     }
     .contact-form .number-label input{
 
