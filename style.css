@@ -35,7 +35,8 @@
     .contact-form input{
         background-color: transparent;
         color: white;
-        padding: 10px;
+        padding: 5px;
+        font-size: 20px;
     }
     .contact-form .contact-name{
         position: relative;
@@ -125,6 +126,8 @@
         resize: none;
         font-size: 20px;
         background-color: transparent;
+        color: white;
+        padding: 5px;
     }
 
     .contact-form button{
